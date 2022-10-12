@@ -1,0 +1,43 @@
+.card {
+    width: 350px;
+    height: 450px;
+    background: gray;
+    position: relative;
+    left: 455px;
+    align-items: center;
+    border-radius: 20px;
+    overflow: hidden;
+}
+.backimage {
+    width: 100%;
+    height: 30%;
+    overflow: hidden;
+}
+.backimage img{
+    width: 100%;
+}
+.profileborder {
+    width: 105px;
+    height: 105px;
+    background: rgb(27, 27, 27);
+    border-radius: 50%;
+    position: relative;
+    left: 120px;
+    bottom: 52px;
+}
+.profileimg {
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    left: 128px;
+    top: 90px;
+    overflow: hidden;
+}
+.profileimg img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+.card p {
+    text-align: center;
+}
